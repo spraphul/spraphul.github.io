@@ -1,0 +1,144 @@
+[
+  {
+    "id": "2610.14643",
+    "date": "2026-10-10",
+    "short": "AegisVox",
+    "title": "AegisVox: Factorized Privacy and Clinical Preservation for Long-Form Speech",
+    "authors": "Praphul Singh, Akshat Agarwal, Ratul Ghosh, Aashna Kanuga, Devashish Khatwani, Anurag Dwarakanath, Sri Gadde, Krishnaram Kenthapadi",
+    "topics": [
+      "privacy"
+    ],
+    "label": "Speech & privacy",
+    "venue": "ML4H 2026",
+    "summary": "Separating voice identity and spoken identifiers to examine the tradeoffs between speech privacy and clinical preservation.",
+    "abstract": "A factorized framework uses consistent surrogate voices and identifier replacements. Matched renderer comparisons examine replacement realization, speaker linkage, and clinical preservation separately, showing why stronger performance on one measure need not improve the others.",
+    "figure": 1,
+    "figure_alt": "Factorized speech privacy architecture",
+    "figure_width": 1888,
+    "figure_height": 836
+  },
+  {
+    "id": "2609.09458",
+    "date": "2026-09-08",
+    "short": "ContractEval",
+    "title": "ContractEval: Query-Conditioned Execution Matching for Procedural Instruction Conformance",
+    "authors": "Praphul Singh, Shanu Kumar, Akshat Agarwal, Ganesh Kumar",
+    "topics": [
+      "agents"
+    ],
+    "label": "Agents & evaluation",
+    "venue": "Preprint",
+    "summary": "Making an agent’s procedural obligations explicit, so plausible answers cannot hide skipped checks or incorrect execution paths.",
+    "abstract": "Query-active obligations are matched against responses and execution traces to localize omissions, branch errors, ordering failures, and contract violations. Procedural conformance is treated as a distinct diagnostic target rather than assumed from final-answer quality.",
+    "figure": 1,
+    "figure_alt": "Query-conditioned procedural conformance pipeline",
+    "figure_width": 1664,
+    "figure_height": 836
+  },
+  {
+    "id": "2608.20768",
+    "date": "2026-08-21",
+    "short": "Beyond Endpoint Gains",
+    "title": "Beyond Endpoint Gains: A Weight-Delta Audit of Medical Specialization",
+    "authors": "Praphul Singh, Shanu Kumar, Akshat Agarwal",
+    "topics": [
+      "models"
+    ],
+    "label": "Model understanding",
+    "venue": "Findings of EMNLP 2026",
+    "summary": "Examining what a specialist model’s parameter update explains—and what aggregate benchmark gains leave unresolved.",
+    "abstract": "Paired generalist-to-specialist checkpoint audits distinguish reconstructing benchmark movement from explaining it. Component-family interventions and matched controls test whether gains can be attributed to a particular part of the released weight update.",
+    "figure": 1,
+    "figure_alt": "Paired model checkpoint and weight-delta audit",
+    "figure_width": 1560,
+    "figure_height": 692,
+    "publication_url": "https://aclanthology.org/2026.findings-emnlp.1200/"
+  },
+  {
+    "id": "2510.17614",
+    "date": "2025-10-20",
+    "short": "OG-Rank",
+    "title": "OG-Rank: Learning to Rank Fast and Slow with Uncertainty and Reward-Trend Guided Adaptive Exploration",
+    "authors": "Praphul Singh, Corey Barrett, Sumana Srivasta, Irfan Bulu, Amitabh Saikia, Sri Gadde, Krishnaram Kenthapadi",
+    "topics": [
+      "retrieval",
+      "models"
+    ],
+    "label": "Adaptive inference",
+    "venue": "Preprint",
+    "summary": "A fast scoring path with selective generation for ambiguous cases, allocating inference effort where it can help ranking.",
+    "figure": 1,
+    "figure_alt": "Uncertainty and reward-trend guided training curriculum",
+    "figure_width": 1828,
+    "figure_height": 640
+  },
+  {
+    "id": "2510.14169",
+    "date": "2025-10-16",
+    "short": "JEDA",
+    "title": "JEDA: Query-Free Clinical Order Search from Ambient Dialogues",
+    "authors": "Praphul Singh, Corey Barrett, Sumana Srivasta, Amitabh Saikia, Irfan Bulu, Sri Gadde, Krishnaram Kenthapadi",
+    "topics": [
+      "retrieval"
+    ],
+    "label": "Representation learning",
+    "venue": "Preprint",
+    "summary": "Learning embeddings that connect implicit conversational intent directly to canonical clinical orders.",
+    "figure": 1,
+    "figure_alt": "Training record construction for clinical order retrieval",
+    "figure_width": 936,
+    "figure_height": 600
+  },
+  {
+    "id": "2510.02338",
+    "date": "2025-09-26",
+    "short": "Claim-based rewards",
+    "title": "Optimizing Long-Form Clinical Text Generation with Claim-Based Rewards",
+    "authors": "Samyak Jhaveri, Praphul Singh, Jangwon Kim, Tara Taghavi, Krishnaram Kenthapadi",
+    "topics": [
+      "models",
+      "agents"
+    ],
+    "label": "Reinforcement learning",
+    "venue": "Preprint",
+    "summary": "Connecting claim-level evaluation to reinforcement learning for more grounded and complete clinical text.",
+    "figure": 1,
+    "figure_alt": "Claim extraction and reinforcement learning pipeline",
+    "figure_width": 1612,
+    "figure_height": 512
+  },
+  {
+    "id": "2505.18380",
+    "date": "2025-05-23",
+    "short": "RedactOR",
+    "title": "RedactOR: An LLM-Powered Framework for Automatic Clinical Data De-Identification",
+    "authors": "Praphul Singh, Charlotte Dzialo, Jangwon Kim, Sumana Srivatsa, Irfan Bulu, Sri Gadde, Krishnaram Kenthapadi",
+    "topics": [
+      "privacy"
+    ],
+    "label": "Privacy & systems",
+    "venue": "ACL 2025 · Industry",
+    "summary": "A multimodal de-identification system that combines routing and consistent substitutions to preserve the utility of clinical data.",
+    "figure": 1,
+    "figure_alt": "RedactOR multimodal de-identification architecture",
+    "figure_width": 1620,
+    "figure_height": 748
+  },
+  {
+    "id": "2107.00727",
+    "date": "2021-07-01",
+    "short": "Domain adaptation",
+    "title": "Mitigating Uncertainty of Classifier for Unsupervised Domain Adaptation",
+    "authors": "Shanu Kumar, Vinod Kumar Kurmi, Praphul Singh, Vinay P Namboodiri",
+    "topics": [
+      "models"
+    ],
+    "label": "Domain adaptation",
+    "venue": "Preprint",
+    "summary": "Studying feature distributions, prediction uncertainty, and activation mappings for adaptation across domains.",
+    "figure": 5,
+    "figure_alt": "Triple Distribution Matching architecture for domain adaptation",
+    "figure_width": 964,
+    "figure_height": 508
+  }
+]

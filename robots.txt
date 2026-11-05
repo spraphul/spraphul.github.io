@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://spraphul.github.io/sitemap.xml

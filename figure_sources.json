@@ -1,0 +1,130 @@
+[
+  {
+    "id": "2610.14643",
+    "source": "https://arxiv.org/pdf/2610.14643",
+    "page": 2,
+    "figure": 1,
+    "bounds_pt": [
+      70,
+      87,
+      542,
+      296
+    ],
+    "alt": "Factorized speech privacy architecture",
+    "pdf_sha256": "8373b60b8d71567a1ad48f095f5508c0f1e9c936221847e9a20119808e4fce80",
+    "width": 1888,
+    "height": 836
+  },
+  {
+    "id": "2609.09458",
+    "source": "https://arxiv.org/pdf/2609.09458",
+    "page": 2,
+    "figure": 1,
+    "bounds_pt": [
+      91,
+      69,
+      507,
+      278
+    ],
+    "alt": "Query-conditioned procedural conformance pipeline",
+    "pdf_sha256": "dd00e3ada367a2ba7f4322c17195ea264fc30fe56f0bf0356a90a4758eb064f2",
+    "width": 1664,
+    "height": 836
+  },
+  {
+    "id": "2608.20768",
+    "source": "https://arxiv.org/pdf/2608.20768",
+    "page": 2,
+    "figure": 1,
+    "bounds_pt": [
+      106,
+      69,
+      496,
+      242
+    ],
+    "alt": "Paired model checkpoint and weight-delta audit",
+    "pdf_sha256": "7d4e651d1e5520e045edcb56e11c82722c7f2e3c62a31afca7285ca2b89e3459",
+    "width": 1560,
+    "height": 692
+  },
+  {
+    "id": "2510.17614",
+    "source": "https://arxiv.org/pdf/2510.17614",
+    "page": 4,
+    "figure": 1,
+    "bounds_pt": [
+      69,
+      68,
+      526,
+      228
+    ],
+    "alt": "Uncertainty and reward-trend guided training curriculum",
+    "pdf_sha256": "bb975ed387eeab619ffb4fcbb3a687b7d90ab3ceb1a904829943e24953b3f12d",
+    "width": 1828,
+    "height": 640
+  },
+  {
+    "id": "2510.14169",
+    "source": "https://arxiv.org/pdf/2510.14169",
+    "page": 3,
+    "figure": 1,
+    "bounds_pt": [
+      53,
+      79,
+      287,
+      229
+    ],
+    "alt": "Training record construction for clinical order retrieval",
+    "pdf_sha256": "7737c4464a1ede568247f74bb4990a5eef9de45deac0e73bf04699269a284241",
+    "width": 936,
+    "height": 600
+  },
+  {
+    "id": "2510.02338",
+    "source": "https://arxiv.org/pdf/2510.02338",
+    "page": 3,
+    "figure": 1,
+    "bounds_pt": [
+      105,
+      75,
+      508,
+      203
+    ],
+    "alt": "Claim extraction and reinforcement learning pipeline",
+    "pdf_sha256": "4ff022c1245ea3fd407fa46b914e19fd246eeeecee98e70df070d89cf215cef0",
+    "width": 1612,
+    "height": 512
+  },
+  {
+    "id": "2505.18380",
+    "source": "https://arxiv.org/pdf/2505.18380",
+    "page": 2,
+    "figure": 1,
+    "bounds_pt": [
+      91,
+      70,
+      496,
+      257
+    ],
+    "alt": "RedactOR multimodal de-identification architecture",
+    "pdf_sha256": "5f09578c860cf41a8cd3278657f111735ca9810c9d97a263f6fb4847d56da24c",
+    "width": 1620,
+    "height": 748
+  },
+  {
+    "id": "2107.00727",
+    "source": "https://arxiv.org/pdf/2107.00727",
+    "page": 5,
+    "figure": 5,
+    "bounds_pt": [
+      48,
+      161,
+      289,
+      288
+    ],
+    "alt": "Triple Distribution Matching architecture for domain adaptation",
+    "pdf_sha256": "84ef7d11fa049bb572983f3ac1ec10a4e7b75e28a3a66b5f4c3573029909a1e7",
+    "width": 964,
+    "height": 508
+  }
+]

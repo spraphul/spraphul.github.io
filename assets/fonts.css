@@ -1,0 +1,4 @@
+/* Self-hosted fonts; licenses are included in assets/fonts/. */
+@font-face{font-family:'Geist';font-style:normal;font-weight:100 900;font-display:swap;src:url(fonts/Geist-Variable.ttf) format('truetype')}
+@font-face{font-family:'Geist Mono';font-style:normal;font-weight:100 900;font-display:swap;src:url(fonts/GeistMono-Variable.ttf) format('truetype')}
+@font-face{font-family:'Space Grotesk';font-style:normal;font-weight:300 700;font-display:swap;src:url(fonts/SpaceGrotesk-Variable.ttf) format('truetype')}
