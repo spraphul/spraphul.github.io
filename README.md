@@ -16,3 +16,7 @@ Static HTML, CSS, and JavaScript, hosted with GitHub Pages. The blog is availabl
 Fonts are self-hosted under `assets/fonts/` with their SIL Open Font Licenses. Publication figure source metadata is recorded in `figure_sources.json`. The figure export scripts require PyMuPDF; the page builder uses the Python standard library.
 
 The site supports topic filters, figure enlargement, and light and dark themes.
+
+## Analytics
+
+The production site uses Google Analytics 4 for traffic and interaction reports. Advertising features are disabled. The analytics script does not run on local previews and respects browser privacy signals and the opt-out control on `privacy.html`.
