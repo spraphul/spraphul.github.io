@@ -46,7 +46,7 @@
     ],
     "label": "Model understanding",
     "venue": "Findings of EMNLP 2026",
-    "summary": "Examining what a specialist model’s parameter update explains—and what aggregate benchmark gains leave unresolved.",
+    "summary": "Examining what a specialist model’s parameter update explains and what aggregate benchmark gains leave unresolved.",
     "abstract": "Paired generalist-to-specialist checkpoint audits distinguish reconstructing benchmark movement from explaining it. Component-family interventions and matched controls test whether gains can be attributed to a particular part of the released weight update.",
     "figure": 1,
     "figure_alt": "Paired model checkpoint and weight-delta audit",
